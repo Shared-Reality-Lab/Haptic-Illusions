@@ -9,6 +9,9 @@ Once printed, they can be fully assembled by hand.
 
 In this repository you will find all necessary 3D model files (.stl) and printing guidelines to fabricate your own set of 3D printed illusions and demonstrations.
 
+Antoine Weill--Duflos, Pascal E. Fortin, Jeremy R. Cooperstock
+Shared Reality Lab, McGill University
+
 # 3D printing guidelines
 
 The table below specifics the files necessary to fabricate each illusion, provides a few guidelines on how to print each activity and shows an example of model layout on the 3D printer's print surface.
