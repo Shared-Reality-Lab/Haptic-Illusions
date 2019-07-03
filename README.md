@@ -1,6 +1,5 @@
 # 3D Printed Haptic Illusions and Demonstrations
 <img align="left" width="400" src="images/teaser.jpg">
-=======
 
 Appreciating a sensory illusion often requires you to experience it with your own senses. While this is generally trivial for visual and auditory illusions that can be rendered using commonly available hardware, haptic illusions often require complex mechanical systems.
 Vincent Hayward’s, “A brief taxonomy of tactile illusions and demonstrations that can be done in a hardware store” introduced simple and affordable DIY assemblies to make haptic illusions more accessible.
